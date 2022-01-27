@@ -47,3 +47,6 @@ Machine learning tend to focus on learning only one or two layers of representat
 ## **Understanding how deep learning works**
 
 ![deep_learning_working_process](./deep.png)
+
+**NOTE** Don’t confuse regression and the algorithm logistic regression. Confusingly, logistic regression isn’t a regression algorithm—it’s a classification
+algorithm.
