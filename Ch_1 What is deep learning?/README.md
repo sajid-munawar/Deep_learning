@@ -40,4 +40,5 @@ models called **neural networks**.
 Machine learning tend to focus on learning only one or two layers of representations of the data; hence, they’re sometimes called shallow learning
 
 **Understanding how deep learning works**
-![deep_learning_working_process](Screenshot from 2022-01-27 11-51-14.png)
+
+![deep_learning_working_process](./deep.png)
