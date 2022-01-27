@@ -28,7 +28,7 @@ operations, called a hypothesis space.
 Machine learning is, technically: searching for useful representations of some input data, within a predefined space of possibilities, using guidance
 from a feedback signal. 
 
-**Deep Learning**
+**Deep Learning** 
 An emphasis on learning successive layers of increasingly
 meaningful representations.
 It stands for this idea of successive layers of representations. How many layers contribute to a model of the data is
@@ -36,7 +36,7 @@ called the **depth** of the model.
 In deep learning, these layered representations are (almost always) learned via
 models called **neural networks**.
 
-**Shallow learning**
+**Shallow learning** Markup :  - - - -
 Machine learning tend to focus on learning only one or two layers of representations of the data; hence, they’re sometimes called shallow learning
 
 **Understanding how deep learning works**
