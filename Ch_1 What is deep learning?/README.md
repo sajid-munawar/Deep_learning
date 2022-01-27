@@ -36,7 +36,8 @@ called the **depth** of the model.
 In deep learning, these layered representations are (almost always) learned via
 models called **neural networks**.
 
-**Shallow learning** Markup :  - - - -
+**Shallow learning** 
+- - - -
 Machine learning tend to focus on learning only one or two layers of representations of the data; hence, they’re sometimes called shallow learning
 
 **Understanding how deep learning works**
