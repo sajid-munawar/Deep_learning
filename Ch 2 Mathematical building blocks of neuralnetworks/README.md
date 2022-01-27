@@ -16,8 +16,8 @@ connected (also called fully connected) neural layers.
 
 To make the network ready for training, we need to pick three more things, as part
 of the compilation step:
-1. A loss function—How the network will be able to measure its performance on
+1. A **loss function**—How the network will be able to measure its performance on
 the training data, and thus how it will be able to steer itself in the right direction.
-2. An optimizer—The mechanism through which the network will update itself
+2. An **optimizer**—The mechanism through which the network will update itself
 based on the data it sees and its loss function.
-3. Metrics to monitor during training and testing—Here, we’ll only care about accuracy (the fraction of the images that were correctly classified).
+3. **Metrics** to monitor during training and testing—Here, we’ll only care about accuracy (the fraction of the images that were correctly classified).
